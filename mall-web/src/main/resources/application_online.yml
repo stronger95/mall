@@ -1,0 +1,31 @@
+
+spring:
+  application:
+    name: mall-server
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      username: root
+      password: Hilisa9527!!
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      initial-size: 5
+      max-active: 20
+      max-wait: 3000
+      time-between-eviction-runs-millis: 60000
+      min-evictable-idle-time-millis: 30000
+      validation-query: select 'x' from dual
+      test-while-idle: true
+      test-on-borrow: false
+      test-on-return: false
+      pool-prepared-statements: true
+      max-pool-prepared-statement-per-connection-size: 20
+      remove-abandoned: true
+      remove-abandoned-timeout-millis: 180
+      log-abandoned: true
+      url: jdbc:mysql://bj-cynosdbmysql-grp-7ksinpqo.sql.tencentcdb.com:23103/mall?autoReconnect=true&useSSL=false&serverTimezone=GMT%2B8&allowMultiQueries=true
+
+mybatis:
+  config-location: classpath:mybatis/mybatis-config.xml
+  mapper-locations: classpath:mybatis/mapper/*.xml
+server:
+  port: 8080

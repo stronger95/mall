@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55817a8b-21fc-4f6d-883e-dce777cfd07a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mall-web/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-web/src/main/resources/application_dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-web/src/main/resources/application_online.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-web/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-common/src/main/java/com/yiqizhuan/mall/enums/ResponseCodeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-common/src/main/java/com/yiqizhuan/mall/common/enums/ResponseCodeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-common/src/main/java/com/yiqizhuan/mall/vo/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-common/src/main/java/com/yiqizhuan/mall/common/vo/CommonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dao/src/main/java/com/yiqizhuan/mall/mapper/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dao/src/main/java/com/yiqizhuan/mall/dao/mapper/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dao/src/main/java/com/yiqizhuan/mall/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dao/src/main/java/com/yiqizhuan/mall/dao/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dao/src/main/java/com/yiqizhuan/mall/model/UserExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dao/src/main/java/com/yiqizhuan/mall/dao/model/UserExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dao/src/main/resources/mybatis/mapper/UserDAO.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dao/src/main/resources/mybatis/mapper/UserDAO.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dao/src/main/resources/mybatis/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dao/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-http-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-http-server/src/main/java/com/yiqizhuan/mall/HttpStringBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-web/src/main/java/com/yiqizhuan/mall/controller/HttpApplicationBootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-http-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-web/src/main/java/com/yiqizhuan/mall/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-web/src/main/java/com/yiqizhuan/mall/controller/user/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-web/src/main/java/com/yiqizhuan/mall/controller/base/BaseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-web/src/main/java/com/yiqizhuan/mall/controller/base/BaseGlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-web/src/main/java/com/yiqizhuan/mall/controller/base/BaseGlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ex0lrGpLw7dl9xUYKkcu6XDVZ4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/Users/buyan/Desktop/mall/mall-web/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "c0108a21fc8e13c2021d8aefd4a821b0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mall-web/src/main/resources" />
+      <recent name="$PROJECT_DIR$/mall-web/src/main" />
+      <recent name="$PROJECT_DIR$/mall-service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HttpStringBootstrap">
+    <configuration name="HttpStringBootstrap (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mall-http-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yiqizhuan.mall.HttpStringBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpStringBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mall-http-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hi8.mall.HttpStringBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55817a8b-21fc-4f6d-883e-dce777cfd07a" name="Changes" comment="" />
+      <created>1712831076398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712831076398</updated>
+      <workItem from="1712831077664" duration="4016000" />
+      <workItem from="1712973821248" duration="13000" />
+      <workItem from="1712973853371" duration="5144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
